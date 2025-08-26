@@ -34,16 +34,13 @@ Analyzing **customer reviews and booking data** for British Airways to understan
 ---
 
 ## 🛠 Tools & Libraries
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
-![Pandas](https://img.shields.io/badge/Pandas-1.5-green?logo=pandas)  
-![NumPy](https://img.shields.io/badge/NumPy-1.25-orange?logo=numpy)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.2-purple?logo=scikit-learn)  
-![NLTK](https://img.shields.io/badge/NLTK-3.8-red?logo=nltk)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-blue?logo=matplotlib)  
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12-purple?logo=seaborn)  
-![Plotly](https://img.shields.io/badge/Plotly-5.15-orange?logo=plotly)  
-![Yellowbrick](https://img.shields.io/badge/Yellowbrick-1.5-green?logo=python)  
-![WordCloud](https://img.shields.io/badge/WordCloud-1.9-blue?logo=python)  
+- **Python 3.12**
+- **Data Handling**: `pandas`, `numpy`
+- **Web Scraping**: `requests`, `BeautifulSoup`
+- **Data Cleaning & NLP**: `nltk`, `textblob`, `sklearn`
+- **Visualization**: `matplotlib`, `seaborn`, `plotly`, `wordcloud`
+- **Machine Learning**: `sklearn` (RandomForest, StandardScaler, OneHotEncoder, train_test_split)
+- **Model Evaluation**: `yellowbrick` (ConfusionMatrix), `sklearn.metrics`
 
 ---
 
